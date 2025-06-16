@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ajinkya-24/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+## Array
+|  |
+| ------- |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Ajinkya-24/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 <!---LeetCode Topics End-->
