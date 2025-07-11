@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ajinkya-24/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ajinkya-24/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ajinkya-24/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/Ajinkya-24/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ajinkya-24/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ajinkya-24/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ajinkya-24/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ajinkya-24/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ajinkya-24/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ajinkya-24/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/Ajinkya-24/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ajinkya-24/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ajinkya-24/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Hash Table
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ajinkya-24/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ajinkya-24/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ajinkya-24/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2479-meeting-rooms-iii](https://github.com/Ajinkya-24/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ajinkya-24/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ajinkya-24/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ajinkya-24/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2479-meeting-rooms-iii](https://github.com/Ajinkya-24/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ajinkya-24/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ajinkya-24/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ajinkya-24/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2479-meeting-rooms-iii](https://github.com/Ajinkya-24/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Sliding Window
 |  |
 | ------- |
